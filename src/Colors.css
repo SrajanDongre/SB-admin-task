@@ -1,0 +1,108 @@
+.bootstrap-link{
+    text-decoration:none;
+}
+
+.text-gray-100 {
+    color: #f8f9fc!important;
+}
+
+.text-gray-200 {
+    color: #eaecf4!important;
+}
+
+.text-gray-300 {
+    color: #dddfeb!important;
+}
+
+.text-gray-400 {
+    color: #d1d3e2!important;
+}
+
+.text-gray-500 {
+    color: #b7b9cc!important;
+}
+
+.text-gray-600 {
+    color: #858796!important;
+}
+
+.text-gray-700 {
+    color: #6e707e!important;
+}
+
+.text-gray-800 {
+    color: #5a5c69!important;
+}
+
+.text-gray-900 {
+    color: #3a3b45!important;
+}
+
+
+.bg-gray-100 {
+    background-color: #f8f9fc!important;
+}
+
+.bg-gray-200 {
+    background-color: #eaecf4!important;
+}
+
+.bg-gray-300 {
+    background-color: #dddfeb!important;
+}
+
+.bg-gray-400 {
+    background-color: #d1d3e2!important;
+}
+
+.bg-gray-500 {
+    background-color: #b7b9cc!important;
+}
+
+.bg-gray-600 {
+    background-color: #858796!important;
+}
+
+.bg-gray-700 {
+    background-color: #6e707e!important;
+}
+
+.bg-gray-800 {
+    background-color: #5a5c69!important;
+}
+
+.bg-gray-900 {
+    background-color: #3a3b45!important;
+}
+
+.bg-primary{
+    background-image: linear-gradient(180deg,#527af3 10%,#0c309c 100%);
+}
+
+.bg-secondary{
+    background-image: linear-gradient(180deg,#858796 10%,#60616f 100%);
+}
+
+.bg-success{
+    background-image: linear-gradient(180deg,#1cc88a 10%,#13855c 100%);
+}
+
+.bg-info{
+    background-image: linear-gradient(180deg,#36b9cc 10%,#258391 100%);
+}
+
+.bg-warning{
+    background-image: linear-gradient(180deg,#f6c23e 10%,#dda20a 100%);
+}
+
+.bg-danger{
+    background-image: linear-gradient(180deg,#e74a3b 10%,#be2617 100%);
+}
+
+.bg-light{
+    background-image: linear-gradient(180deg,#f8f9fc 10%,#9fa1aa 100%);
+}
+
+.bg-dark{
+    background-image: linear-gradient(180deg,#5a5c69 10%,#373840 100%);
+}

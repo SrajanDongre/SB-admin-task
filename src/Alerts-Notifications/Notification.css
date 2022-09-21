@@ -1,0 +1,32 @@
+.notification-card{
+    width:20em !important;
+    z-index:1;
+    right:13em;
+    height:22em !important;
+}
+
+.notification-card-header{
+    font-size:12px;
+    font-weight:500;
+}
+
+.icon-circle{
+    height:2.5rem;
+    width:2.5rem;
+    border-radius:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.notification-text,.bottom-link{
+    font-size:13px;
+}
+
+.bottom-link:hover{
+    color:black;
+}
+
+.notification-name{
+    font-size:10px;
+}

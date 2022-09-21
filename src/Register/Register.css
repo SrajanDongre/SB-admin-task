@@ -1,0 +1,57 @@
+.register-pug{
+    height:43em;
+}
+
+.img-section{
+    display: none;
+}
+
+.form-group{
+    margin-bottom:1.5rem;
+}
+
+.form-group-name{
+    margin-bottom:1.5rem;
+    width:16em;
+}
+
+.form-control-register{
+    border-radius:50px;
+    height:3em;
+}
+
+.form-control-btn{
+    border-radius:50px;
+    height:3em;
+}
+
+.form-control-btn-facebook{
+    background-color:#3b5998 !important;
+}
+
+.register-bottom-links{
+    font-size:14px;
+}
+
+label{
+    color:#858796 !important;
+    font-size:14px;
+}
+
+@media (min-width:992px){
+    .img-section{
+        display: block;
+    }
+}
+
+@media (min-width:992px){
+    .register-pug{
+        width:25em !important;
+    }
+}
+
+@media (min-width:1200px){
+    .register-pug{
+        width:29em !important;
+    }
+}

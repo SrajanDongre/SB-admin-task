@@ -1,0 +1,55 @@
+.border-left-primary {
+    border-left: 0.25rem solid #4e73df;
+}
+
+.border-left-secondary {
+    border-left: 0.25rem solid #858796;
+}
+
+.border-left-success {
+    border-left: 0.25rem solid #1cc88a;
+}
+
+.border-left-info {
+    border-left: 0.25rem solid #36b9cc;
+}
+
+.border-left-warning {
+    border-left: 0.25rem solid #f6c23e;
+}
+
+.border-left-danger {
+    border-left: 0.25rem solid #e74a3b;
+}
+
+.border-left-dark {
+    border-left: 0.25rem solid #5a5c69;
+}
+
+.border-bottom-primary {
+    border-bottom: 0.25rem solid #4e73df;
+}
+
+.border-bottom-secondary {
+    border-bottom: 0.25rem solid #858796;
+}
+
+.border-bottom-success {
+    border-bottom: 0.25rem solid #1cc88a;
+}
+
+.border-bottom-info {
+    border-bottom: 0.25rem solid #36b9cc;
+}
+
+.border-bottom-warning {
+    border-bottom: 0.25rem solid #f6c23e;
+}
+
+.border-bottom-danger {
+    border-bottom: 0.25rem solid #e74a3b;
+}
+
+.border-bottom-dark {
+    border-bottom: 0.25rem solid #5a5c69;
+}

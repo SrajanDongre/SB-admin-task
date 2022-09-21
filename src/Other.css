@@ -1,0 +1,23 @@
+.progress-bar{
+    width:50%;
+}
+
+.bar-text{
+    font-size:12px;
+}
+
+[class^="rotate"]{
+    height:3em;
+}
+
+.rotate-15{
+    transform:rotate(20deg);
+}
+
+.rotate-n-15{
+    transform:rotate(-20deg);
+}
+
+.bg-primary{
+    background-image: linear-gradient(180deg,#0d6efd 100%,#0d6efd 100%);
+}

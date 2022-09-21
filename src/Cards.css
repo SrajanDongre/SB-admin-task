@@ -1,0 +1,18 @@
+@import url("font-awesome/css/font-awesome.css");
+@import url("font-awesome/css/font-awesome.min.css");
+
+.card-text{
+    font-size:16px;
+}
+
+.collapsable-card{
+    text-decoration:none;
+}
+
+.collapsable-card.collapsed:after{
+    content:"\f105";
+}
+
+.collapsable-card::after{
+      content: "\f107";
+}

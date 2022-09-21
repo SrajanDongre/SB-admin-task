@@ -1,0 +1,34 @@
+export const bfGradients =[
+    {
+        background:"bg-primary",
+        text:"bg-gradient-primary"
+    },
+    {
+        background:"bg-secondary",
+        text:"bg-gradient-secondary"
+    },
+    {
+        background:"bg-success",
+        text:"bg-gradient-success"
+    },
+    {
+        background:"bg-info",
+        text:"bg-gradient-info"
+    },
+    {
+        background:"bg-warning",
+        text:"bg-gradient-warning"
+    },
+    {
+        background:"bg-danger",
+        text:"bg-gradient-danger"
+    },
+    {
+        background:"bg-light",
+        text:"bg-gradient-light"
+    },
+    {
+        background:"bg-dark",
+        text:"bg-gradient-dark"
+    }
+]

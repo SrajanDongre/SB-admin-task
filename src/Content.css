@@ -1,0 +1,238 @@
+@media (max-width:420px){
+    .development-approach-card{
+        height:37em !important;
+    }
+
+    .illustrations-card{
+        height:33em !important;
+    }
+
+    .revenue-chart{
+        height:20em !important;
+    }
+
+    .earning-chart{
+        height:13em !important;
+    }
+}
+
+.dashboard-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(104, 101, 101);
+    font-size: 32px;
+}
+
+.dashboard-head{
+    display:flex;
+    justify-content: space-between;
+}
+
+.card-holder{
+    /* width:22%; */
+    height:7em;
+    border-radius:5px;
+}
+
+.calendar-icon{
+    color:silver;
+}
+
+.earning-chart{
+    height:50%;
+    width:65%;
+    border:black;
+}
+
+.revenue-chart{
+    height:50%;
+    width:35%;
+}
+
+.amount{
+    color:rgb(88, 87, 87);
+    font-size:23px;
+    font-weight:bold;
+}
+
+.title{
+    font-size:15px;
+    font-weight: bold;
+}
+
+.card-holder:nth-child(1){
+    color:rgb(99, 23, 185)
+}
+
+.card-holder:nth-child(2){
+    color:rgb(34, 199, 34);
+}
+
+.card-holder:nth-child(3){
+    color:rgb(24, 156, 156);
+}
+
+.card-holder:nth-child(4){
+    color:rgb(255, 217, 0);
+}
+
+.vertical-dots-icon:hover{
+    cursor:pointer;
+}
+
+.biDotsVerticalRounded{
+    color:grey;
+}
+
+.earning-expandedMenu{
+    position:absolute;
+    z-index:1;
+    width:50%;
+    right:2px;
+}
+
+.project-name,.project-percent{
+    color:grey;
+    font-size:13px;
+    font-weight:500;
+}
+
+.projects,.colors-list{
+    width:53%;
+}
+
+.illustrations,.development-approach{
+    width:50%;
+}
+
+.undraw-photo{
+    width:75%;
+}
+
+.unDrawLink{
+    text-decoration:none;
+}
+
+.unDrawLink:hover{
+    text-decoration:underline;
+}
+
+.card-text{
+    font-size:15px;
+}
+
+.dev-approach-text{
+    font-size:15px;
+}
+
+.illustrations-card{
+    height:33em !important;
+}
+
+.colors-list{
+    position:relative;
+}
+
+.set{
+    height:6em;
+}
+
+.color-code{
+    color:rgb(219, 214, 214);
+    font-weight:500;
+}
+
+.color-name{
+    font-size:18px;
+    font-weight:500;
+}
+
+.set>div{
+    border-radius:5px;
+}
+
+[class^='left-menu']:hover{
+    cursor:pointer;
+    background-color:rgb(228, 225, 225);
+    color:black;
+    border-radius:3px;
+}
+
+[class^='left-menu']{
+    text-decoration:none;
+    color:black;
+}
+
+/* css for media */
+
+@media (min-width:1040px) {
+    .card-holder{
+       width:23%;
+    }
+}
+
+@media (max-width:1040px) {
+    .generate-report{
+        display:none;
+    }
+
+    .earning-expandedMenu{
+        position:absolute;
+        z-index:1;
+        width:15%;
+        left: -105px;
+        top: -11em;
+    }
+
+    .earning-chart{
+    width:100%
+}
+
+.revenue-chart{
+    width:100%;
+}
+
+.projects, .colors-list,.illustrations,.development-approach  {
+    width: 100%;
+}
+
+.colors-list{
+    position:static;
+}
+
+.charts,.projects-illus,.colorslist-devappraoch {
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.card-container{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    border:black;
+}
+
+}
+
+.search-bar-list{
+    list-style-type:none;
+}
+
+
+@media (max-width:576px){
+    .search-bar-small-screen{
+        display:flex;
+    }
+    .search-bar{
+        display:none;
+    }
+}
+
+@media (min-width:576px){
+    .search-bar-small-screen{
+        display:none;
+    }
+    .search-bar{
+        display:flex;
+    }
+}
