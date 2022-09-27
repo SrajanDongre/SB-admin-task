@@ -1,7 +1,7 @@
 
 import {SideBar} from './Sidebar';
 import {BrowserRouter,Routes,Route} from "react-router-dom";
-import {Content} from "./Content";
+import {Content} from "./Content.js";
 import {Header} from "./Header";
 import "./App.css";
 import {LoginPage} from "./LoginPage/LoginPage.js";
