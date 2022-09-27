@@ -1,4 +1,4 @@
-import "./content.css";
+import "./Content.css";
 import { ImDownload3 } from "react-icons/im";
 import { BiDotsVerticalRounded } from "react-icons/bi";
 // import { createContext } from "react";

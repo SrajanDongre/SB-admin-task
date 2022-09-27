@@ -1,4 +1,4 @@
-import "./content.css";
+import "./Content.css";
 
 export function EarningCards({value}){
     const cds = value;

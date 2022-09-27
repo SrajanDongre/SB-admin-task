@@ -1,4 +1,4 @@
-import "./content.css";
+import "./Content.css";
 import {Dashboard} from "./Dashboard";
 import {Buttons} from "./Buttons";
 import {Cards} from "./Cards";
